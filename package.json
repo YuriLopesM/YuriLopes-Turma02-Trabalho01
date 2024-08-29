@@ -1,9 +1,9 @@
 {
-  "name": "unit-tests-jest",
+  "name": "YuriLopes-Turma02-Trabalho01",
   "version": "1.0.0",
   "description": "Example to unit tests using Jest",
   "main": "index.js",
-  "author": "ugioni",
+  "author": "Yuri Lopes Machado",
   "license": "ISC",
   "dependencies": {
     "jest": "^29.7.0",

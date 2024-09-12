@@ -1,14 +1,14 @@
 # JEST Unit Tests
 
-Template from the teacher repo. Improve this README after. 
+Template from the [teacher repo](https://github.com/ugioni/unit-tests-jest). 
 
 ## GitHub Actions
 
 [![Build and Tests](https://github.com/YuriLopesM/YuriLopes-Turma02-Trabalho01/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/YuriLopesM/YuriLopes-Turma02-Trabalho01/actions/workflows/node.js.yml)
 
-<!-- ## SonarCloud
+## SonarCloud
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest) -->
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=l1mit-personal_college-hub&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=l1mit-personal_college-hub)
 
 ## Getting Started
 
